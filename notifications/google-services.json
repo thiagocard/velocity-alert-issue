@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971157012675",
+    "project_id": "velocity-alert-test-noti",
+    "storage_bucket": "velocity-alert-test-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971157012675:android:e25902f1bf5b76ccdea276",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBstDG3N_o-lfz_a9noBrhx9sfxT06tF3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
